@@ -1,0 +1,34 @@
+{
+  "name": "tic-tac-toe-domain",
+  "version": "1.0.0",
+  "description": "tic-tac-toe-domain",
+  "main": "src/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumaftw/tic-tac-toe-domain.git"
+  },
+  "keywords": [
+    "tic",
+    "tac",
+    "toe",
+    "domain"
+  ],
+  "author": "Buma <buma.hteam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumaftw/tic-tac-toe-domain/issues"
+  },
+  "homepage": "https://github.com/bumaftw/tic-tac-toe-domain#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-google": "^0.9.1"
+  },
+  "dependencies": {
+    "convict": "^4.0.1",
+    "dotenv": "^4.0.0",
+    "mongoose": "^4.12.4"
+  }
+}
